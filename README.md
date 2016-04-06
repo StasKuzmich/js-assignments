@@ -29,7 +29,7 @@ To start javascript assignments please follow the next steps:
   git commit -m "Update the links"
   git push origin master
 ```
-* Open https://github.com/rolling-scopes-school/js-assignments and test the build icon. Now it will run all tests and update status once you push changes to github. Keep this icon green!
+* Open https://github.com/StasKuzmich/js-assignments and test the build icon. Now it will run all tests and update status once you push changes to github. Keep this icon green!
 
 
 ### How to setup work environment
@@ -110,4 +110,5 @@ There is an easier way to debug for beginners with free Visual Studio Code:
 
 ##Contribution
 Feel free to contribute into this project. New tasks and katas are welcome.
+
 
